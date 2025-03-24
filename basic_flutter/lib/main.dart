@@ -39,6 +39,8 @@ class MyApp extends StatelessWidget {
 
     // );
 
+    // HAHAHAHA
+
     // Option 4: GoRouter
     return MaterialApp.router(
       routerConfig: appRouter,
